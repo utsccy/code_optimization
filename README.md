@@ -1,0 +1,1 @@
+we want to clean up and optimize some of our data request code to remove redundancies, have all parameters either at the top or in a separate file, and just run more efficiently (as our datasets keep growing!)
